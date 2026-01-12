@@ -3,4 +3,4 @@ This repository contains a small collection of spatial map outputs created throu
 
 
 
-**NOTE: Please DOWNLOAD the PDFs to view the map clearly.**
+**NOTE: Kindly download the PDFs to view the maps clearly.**
